@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "899268028738",
+    "project_id": "dexter-test-a758b",
+    "storage_bucket": "dexter-test-a758b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899268028738:android:25686dfc6e8213c3a8c0db",
+        "android_client_info": {
+          "package_name": "com.enricode.dexter_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899268028738-sc1mcseqv20h5j0mafvo86nps0rocfem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNzLN0z525UkCqbRBY-Hwy7W-upEk0S0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899268028738-sc1mcseqv20h5j0mafvo86nps0rocfem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899268028738-a9dh3brc8pnbeq1q6gkd1nj1m8bpgrqv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enricode.dexter-test"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899268028738:android:aa4aa966fd294b75a8c0db",
+        "android_client_info": {
+          "package_name": "com.example.dexter_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899268028738-sc1mcseqv20h5j0mafvo86nps0rocfem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNzLN0z525UkCqbRBY-Hwy7W-upEk0S0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899268028738-sc1mcseqv20h5j0mafvo86nps0rocfem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899268028738-a9dh3brc8pnbeq1q6gkd1nj1m8bpgrqv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enricode.dexter-test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
